@@ -1,0 +1,20 @@
+{
+	"email": true,
+	"name": true,
+	"l_name": true,
+	"division": true,
+	"phone": true,
+	"office_address": true,
+	"overview": true,
+	"designation": true,
+	"degree1": true,
+	"degree1_year": true,
+	"degree1_school": true,
+	"degree2": true,
+	"degree2_year": true,
+	"degree2_school": true,
+	"degree3": false,
+	"degree3_year": false,
+	"degree3_school": false,
+	"permission": true
+}

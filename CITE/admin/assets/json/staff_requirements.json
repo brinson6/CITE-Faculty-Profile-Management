@@ -1,0 +1,10 @@
+{
+	"email": true,
+	"name": true,
+	"l_name": true,
+	"division": true,
+	"phone": false,
+	"office_address": false,
+	"role": true,
+	"department": true
+}
